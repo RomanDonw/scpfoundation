@@ -1,0 +1,12 @@
+{
+	"material": "scp:foundationstone",
+	"texture-faces":
+	[
+		"foundationlaboratorytopb",
+		"foundationlaboratorytopb",
+		"foundationwhitewall",
+		"foundationwhitewall",
+		"foundationlaboratorytopb",
+		"foundationlaboratorytopb"
+	]
+}

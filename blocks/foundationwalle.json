@@ -1,0 +1,11 @@
+{
+	"material": "scp:foundationstone",
+	"texture-faces": [
+		"foundationwalle",
+		"foundationwalle",
+		"foundationwalla",
+		"foundationwalla",
+		"foundationwalle",
+		"foundationwalle"
+	]
+}

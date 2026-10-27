@@ -1,0 +1,18 @@
+{
+	"material": "scp:foundationstone",
+	"model": "aabb",
+	"hitbox": [0, 0, 0, 1, 1, 0.0625],
+	"texture-faces":
+	[
+		"labeleuclid_side",
+		"labeleuclid_side",
+		"label_bottom",
+		"labeleuclid_top",
+		"labeleuclid_back",
+		"label002"
+	],
+	"rotation": "pane",
+	"light-passing": true,
+	"sky-light-passing": true,
+	"obstacle": false
+}

@@ -1,0 +1,15 @@
+floor = {}
+
+maze_0 = {}
+maze_1 = {}
+maze_2 = {}
+maze_3 = {}
+
+arch = {}
+stairs = {}
+
+pit = {}
+pit_with_arch = {}
+
+col = {}
+corner_with_col = {}

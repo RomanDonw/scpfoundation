@@ -1,0 +1,82 @@
+{
+    "music":
+    {
+        "file": "scp:sounds/music/PD.ogg",
+        "volume": 0.2,
+        "pitch": 1
+    },
+    "ambient":
+    {
+        "sounds":
+        [
+            {
+                "name": "ambient/amb_1",
+                "chance": 0.1,
+                "duration": 5,
+                "min-pitch": 0.8,
+                "max-pitch": 1.1
+            },
+            {
+                "name": "ambient/amb_2",
+                "chance": 0.1,
+                "duration": 5,
+                "min-pitch": 0.8,
+                "max-pitch": 1.1
+            },
+            {
+                "name": "ambient/amb_3",
+                "chance": 0.1,
+                "duration": 5,
+                "min-pitch": 0.8,
+                "max-pitch": 1.1
+            },
+            {
+                "name": "ambient/amb_4",
+                "chance": 0.1,
+                "duration": 5,
+                "min-pitch": 0.8,
+                "max-pitch": 1.1
+            },
+
+            {
+                "name": "ambient/decay_1",
+                "chance": 0.2,
+                "duration": 5,
+                "min-pitch": 0.8,
+                "max-pitch": 1.1
+            },
+            {
+                "name": "ambient/decay_2",
+                "chance": 0.3,
+                "duration": 5,
+                "min-pitch": 0.8,
+                "max-pitch": 1.1
+            },
+            {
+                "name": "ambient/decay_3",
+                "chance": 0.3,
+                "duration": 5,
+                "min-pitch": 0.8,
+                "max-pitch": 1.1
+            },
+            {
+                "name": "ambient/decay_4",
+                "chance": 0.3,
+                "duration": 5,
+                "min-pitch": 0.8,
+                "max-pitch": 1.1
+            },
+            {
+                "name": "misc/luresubject",
+                "chance": 0.1,
+                "duration": 20
+            }
+        ],
+        "volume": 1,
+        "spawn-min-delta-x": 5.0,
+        "spawn-min-delta-z": 5.0,
+        "spawn-max-delta-x": 20.0,
+        "spawn-max-delta-z": 20.0,
+        "spawn-cooldown": 5
+    }
+}

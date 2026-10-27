@@ -1,0 +1,16 @@
+{
+	"texture-faces":
+	[
+		"scp458_side_left_right",
+		"scp458_side_left_right",
+		"scp458_bottom",
+		"scp458_top",
+		"scp458_side_forward_back",
+		"scp458_side_forward_back"
+	],
+	"hitbox": [0, 0, 0, 1, 0.0625, 1],
+	"model": "aabb",
+	"light-passing": true,
+	"sky-light-passing": true,
+	"rotation": "pane"
+}

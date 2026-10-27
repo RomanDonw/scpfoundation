@@ -1,0 +1,28 @@
+{
+	"material": "scp:foundationmetal",
+	"texture-faces":
+	[
+		"foundationslidingdoor_side",
+		"foundationslidingdoor_side",
+		"foundationslidingdoor_opened_top",
+		"foundationslidingdoor_opened_top",
+		"foundationslidingdoora_opened_face_averce",
+		"foundationslidingdoora_opened_face_reverce"
+	],
+	"light-passing": true,
+	"sky-light-passing": true,
+	"size": [1, 2, 1],
+	"rotation": "pane",
+	"model": "aabb",
+	"hitbox": [0.0, 0.0, 0.4375, 0.125, 2.0, 0.125],
+	"hidden": true,
+	"picking-item": "scp:foundationslidingdoora.item",
+	"fields":
+	{
+		"next_door_x": {"type": "int64"},
+		"next_door_y": {"type": "int64"},
+		"next_door_z": {"type": "int64"},
+		"last_interaction_time": {"type": "float64"}
+	},
+	"script-name": "foundationslidingdoor"
+}

@@ -1,0 +1,21 @@
+{
+	"material": "scp:foundationmetal",
+	"texture": "foundationconcrete",
+	"model": "custom",
+	"model-primitives":
+	{
+		"aabbs":
+		[
+			[0, 0.5, 0, 0.5, 0.5, 0.5, "foundationsublevelwallastairs_side_small", "foundationsublevelwallastairs_side_small", "foundationsublevelwallastairs_side_small", "foundationsublevelwallastairs_side_small", "foundationsublevelwallastairs_side_small", "foundationsublevelwallastairs_side_small"],
+			[0, 0, 0, 1, 0.5, 1, "foundationsublevelwallastairs_side_h", "foundationsublevelwallastairs_side_h", "foundationsublevelwalla", "foundationsublevelwalla", "foundationsublevelwallastairs_side_h", "foundationsublevelwallastairs_side_h"]
+		]
+	},
+	"hitboxes":
+	[
+		[0, 0.5, 0, 0.5, 0.5, 0.5],
+		[0, 0, 0, 1, 0.5, 1]
+	],
+	"rotation": "pane",
+	"light-passing": true,
+	"sky-light-passing": true
+}

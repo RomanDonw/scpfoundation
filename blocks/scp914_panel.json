@@ -1,0 +1,35 @@
+{
+	"material": "scp:foundationmetal",
+	"texture-faces":
+	[
+		"scp914_metal",
+		"scp914_metal",
+		"scp914_metal",
+		"scp914_metal",
+		"scp914_metal",
+		"scp914_panel"
+	],
+	"rotation": "pane",
+	"fields":
+	{
+		"c1_x": {"type": "float64"},
+		"c1_y": {"type": "float64"},
+		"c1_z": {"type": "float64"},
+		"c1_x_sz": {"type": "float64"},
+		"c1_y_sz": {"type": "float64"},
+		"c1_z_sz": {"type": "float64"},
+		"c1_door_x": {"type": "int64"},
+		"c1_door_y": {"type": "int64"},
+		"c1_door_z": {"type": "int64"},
+
+		"c2_x": {"type": "float64"},
+		"c2_y": {"type": "float64"},
+		"c2_z": {"type": "float64"},
+		"c2_door_x": {"type": "int64"},
+		"c2_door_y": {"type": "int64"},
+		"c2_door_z": {"type": "int64"},
+
+		"mode": {"type": "int8"},
+		"last_interaction_time": {"type": "float64"}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"material": "scp:foundationmetal",
+	"texture": "foundationmeshfloor",
+	"light-passing": true,
+	"sky-light-passing": true,
+	"-- translucent": true,
+	"-- culling": "disabled",
+	"draw-group": 2
+}

@@ -1,0 +1,12 @@
+{
+	"material": "scp:pocketdimension",
+	"texture-faces":
+	[
+		"pocketdimension_corridora",
+		"pocketdimension_corridora",
+		"pocketdimension_corridorb",
+		"pocketdimension_corridorb",
+		"pocketdimension_corridora",
+		"pocketdimension_corridora"
+	]
+}

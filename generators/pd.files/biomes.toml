@@ -1,0 +1,5 @@
+[main]
+parameters = []
+layers = [
+    {height=-1, block="scp:pocketdimension_floor"}
+]

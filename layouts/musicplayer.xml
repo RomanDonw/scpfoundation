@@ -1,0 +1,9 @@
+<container size="200,220" color="#80808080">
+	<label pos="0,0">Track name: </label>
+	<textbox id="track_name" hint="Track name" pos="0,20"></textbox>
+	<label pos="0,60" id="volume_label">Volume: 50%</label>
+	<trackbar min="0" max="100" step="1" size="200,30" pos="0,80" consumer="reprint_volume" id="volume_trackbar" value="50"></trackbar>
+	<label pos="0,120">Loop: </label>
+	<checkbox checked="true" id="checkbox_loop" pos="0,140"></checkbox>
+	<button pos="0,180" id="button_play_stop" onclick="play_stop()">Play</button>
+</container>

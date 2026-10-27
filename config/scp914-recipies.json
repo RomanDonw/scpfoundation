@@ -1,0 +1,107 @@
+{
+    "rough":
+    [
+        {
+            "success-chance": 0.5,
+            "inputs":
+            [
+                {
+                    "id": "scp:accesscard_1",
+                    "count": 1
+                }
+            ],
+            "outputs":
+            [
+                {
+                    "id": "scp:accesscard_0",
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "coarse":
+    [
+        {
+            "success-chance": 1.0,
+            "inputs":
+            [
+                {
+                    "id": "scp:accesscard_1",
+                    "count": 1
+                }
+            ],
+            "outputs":
+            [
+                {
+                    "id": "scp:accesscard_0",
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "1:1":
+    [
+
+    ],
+    "fine":
+    [
+        {
+            "success-chance": 1.0,
+            "inputs":
+            [
+                {
+                    "id": "scp:accesscard_0",
+                    "count": 1
+                }
+            ],
+            "outputs":
+            [
+                {
+                    "id": "scp:accesscard_1",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "success-chance": 1.0,
+            "inputs":
+            [
+                {
+                    "id": "scp:accesscard_1",
+                    "count": 1
+                }
+            ],
+            "outputs":
+            [
+                {
+                    "id": "scp:accesscard_2",
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "very-fine":
+    [
+        {
+            "success-chance": 1.0,
+            "inputs":
+            [
+                {
+                    "id": "scp:accesscard_0",
+                    "count": 2
+                },
+                {
+                    "id": "scp:accesscard_2",
+                    "count": 1
+                }
+            ],
+            "outputs":
+            [
+                {
+                    "id": "scp:accesscard_1",
+                    "count": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+	"sounds":
+	[
+		"blocks/foundationbutton_success",
+		"blocks/foundationbutton_failed",
+
+		"blocks/foundationcardreader_success",
+		"blocks/foundationcardreader_failed",
+
+		"blocks/foundationslidingdoora_opening1",
+		"blocks/foundationslidingdoora_opening2",
+		"blocks/foundationslidingdoora_opening3",
+		"blocks/foundationslidingdoora_closing1",
+		"blocks/foundationslidingdoora_closing2",
+		"blocks/foundationslidingdoora_closing3",
+
+		"blocks/foundationslidingdoorb_opening1",
+		"blocks/foundationslidingdoorb_opening2",
+		"blocks/foundationslidingdoorb_opening3",
+		"blocks/foundationslidingdoorb_closing1",
+		"blocks/foundationslidingdoorb_closing2",
+		"blocks/foundationslidingdoorb_closing3",
+
+		"misc/pickitem_1",
+		"misc/luresubject",
+
+		"items/scp513_1",
+		"items/scp513_2",
+		"items/scp513_3",
+
+		"ambient/amb_1",
+		"ambient/amb_2",
+		"ambient/amb_3",
+		"ambient/amb_4",
+
+		"ambient/decay_1",
+		"ambient/decay_2",
+		"ambient/decay_3",
+		"ambient/decay_4"
+	]
+}

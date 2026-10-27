@@ -1,0 +1,21 @@
+{
+	"material": "scp:foundationstone",
+	"texture": "foundationconcrete",
+	"model": "custom",
+	"model-primitives":
+	{
+		"aabbs":
+		[
+			[0, 0, 0.5, 1, 0.5, 0.5, "foundationconcretestairs_side_small", "foundationconcretestairs_side_small", "foundationconcretestairs_side_h", "foundationconcretestairs_side_h", "foundationconcretestairs_side_h", "foundationconcretestairs_side_h"],
+			[0, 0, 0, 1, 1, 0.5, "foundationconcretestairs_side_v", "foundationconcretestairs_side_v", "foundationconcretestairs_side_h", "foundationconcretestairs_side_h", "foundationconcrete", "foundationconcrete"]
+		]
+	},
+	"hitboxes":
+	[
+		[0, 0, 0.5, 1, 0.5, 0.5],
+		[0, 0, 0, 1, 1, 0.5]
+	],
+	"rotation": "stairs",
+	"light-passing": true,
+	"sky-light-passing": true
+}

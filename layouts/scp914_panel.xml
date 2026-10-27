@@ -1,0 +1,11 @@
+<container size="440,200" color="#80808080">
+    <label id="mode" pos="200,10"></label>
+
+    <button pos="0,60" size="80,40" onclick="set_mode(0)">Rough</button>
+    <button pos="90,60" size="80,40" onclick="set_mode(1)">Coarse</button>
+    <button pos="180,60" size="80,40" onclick="set_mode(2)">1:1</button>
+    <button pos="270,60" size="80,40" onclick="set_mode(3)">Fine</button>
+    <button pos="360,60" size="80,40" onclick="set_mode(4)">Very fine</button>
+
+    <button pos="0,160" size="200,40" onclick="test()">Test</button>
+</container>

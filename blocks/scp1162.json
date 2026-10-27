@@ -1,0 +1,13 @@
+{
+	"material": "scp:foundationstone",
+	"texture-faces":
+	[
+		"scp1162_side",
+		"scp1162_side",
+		"scp1162_side",
+		"scp1162_side",
+		"scp1162_side",
+		"scp1162_face"
+	],
+	"rotation": "pane"
+}

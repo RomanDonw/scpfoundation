@@ -1,0 +1,18 @@
+{
+	"material": "scp:foundationstone",
+	"model": "aabb",
+	"hitbox": [0, 0, 0, 1, 1, 0.0625],
+	"texture-faces":
+	[
+		"labelketer_side",
+		"labelketer_side",
+		"label_bottom",
+		"labelketer_top",
+		"labelketer_back",
+		"label354"
+	],
+	"rotation": "pane",
+	"light-passing": true,
+	"sky-light-passing": true,
+	"obstacle": false
+}

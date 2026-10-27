@@ -1,0 +1,24 @@
+{
+	"model": "custom",
+	"model-primitives":
+	{
+		"aabbs":
+		[
+			[0.1875, 0, 0.1875, 0.625, 0.0625, 0.625, "scp330_bowl_side_bottom", "scp330_bowl_side_bottom", "scp330_bowl_bottom", "scp330_bowl_bottom", "scp330_bowl_side_bottom", "scp330_bowl_side_bottom"],
+			[0.15625, 0.03125, 0.1875, 0.0625, 0.1875, 0.625, "scp330_bowl_side", "scp330_bowl_side", "scp330_bowl_side_top_x", "scp330_bowl_side_bottom_x", "scp330_bowl_side_side", "scp330_bowl_side_side"],
+			[0.78125, 0.03125, 0.1875, 0.0625, 0.1875, 0.625, "scp330_bowl_side", "scp330_bowl_side", "scp330_bowl_side_top_x", "scp330_bowl_side_bottom_x", "scp330_bowl_side_side", "scp330_bowl_side_side"],
+			[0.1875, 0.03125, 0.15625, 0.625, 0.1875, 0.0625, "scp330_bowl_side_side", "scp330_bowl_side_side", "scp330_bowl_side_top_z", "scp330_bowl_side_bottom_z", "scp330_bowl_side", "scp330_bowl_side"],
+			[0.1875, 0.03125, 0.78125, 0.625, 0.1875, 0.0625, "scp330_bowl_side_side", "scp330_bowl_side_side", "scp330_bowl_side_top_z", "scp330_bowl_side_bottom_z", "scp330_bowl_side", "scp330_bowl_side"],
+			[0.1875, 0.1875, 0.1875, 0.625, 0, 0.652, "scp330_candies"],
+			[0.5625, 0.1875, 0.625, 0.0625, 0.03125, 0.0625, "scp330_candy_a"],
+			[0.3125, 0.1875, 0.5625, 0.0625, 0.03125, 0.0625, "scp330_candy_b"],
+			[0.375, 0.1875, 0.3125, 0.0625, 0.03125, 0.0625, "scp330_candy_c"],
+			[0.625, 0.1875, 0.375, 0.0625, 0.03125, 0.0625, "scp330_candy_d"]
+		]
+	},
+	"hitbox": [0.125, 0, 0.125, 0.75, 0.25, 0.75],
+	"light-passing": true,
+	"sky-light-passing": true,
+    "texture": "steel",
+    "material": "scp:foundationmetal"
+}

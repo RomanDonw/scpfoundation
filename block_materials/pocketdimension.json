@@ -1,0 +1,7 @@
+{
+    "steps-sound": "steps/pocketdimension",
+    "-- place-sound": "blocks/pocketdimension_place",
+    "-- break-sound": "blocks/pocketdimension_break",
+	"place-sound": "steps/pocketdimension",
+	"break-sound": "steps/pocketdimension"
+}

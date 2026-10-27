@@ -1,0 +1,24 @@
+{
+	"material": "scp:foundationmetal",
+	"texture-faces":
+	[
+		"foundationslidingdoor_side",
+		"foundationslidingdoor_side",
+		"foundationslidingdoor_top",
+		"foundationslidingdoor_top",
+		"foundationslidingdoora_face",
+		"foundationslidingdoora_face"
+	],
+	"size": [1, 2, 1],
+	"rotation": "pane",
+	"model": "aabb",
+	"hitbox": [0.0, 0.0, 0.4375, 1.0, 2.0, 0.125],
+	"fields":
+	{
+		"next_door_x": {"type": "int64"},
+		"next_door_y": {"type": "int64"},
+		"next_door_z": {"type": "int64"},
+		"last_interaction_time": {"type": "float64"}
+	},
+	"script-name": "foundationslidingdoor"
+}

@@ -1,0 +1,20 @@
+{
+	"material": "scp:foundationstone",
+	"emission": [0, 0, 0],
+	"ligth-passing": true,
+	"model": "custom",
+	"model-primitives":
+	{
+		"aabbs":
+		[
+			[0, 0.9375, 0, 1, 0.0625, 1, "foundationceilinglampfixtureside", "foundationceilinglampfixtureside", "foundationceilinglampfixture", "foundationceilinglampfixture", "foundationceilinglampfixtureside", "foundationceilinglampfixtureside"],
+			[0.0625, 0.875, 0.0625, 0.875, 0.0625, 0.875, "foundationdamagedceilinglamplightbarside", "foundationdamagedceilinglamplightbarside", "foundationdamagedceilinglamplightbarsbottom", "foundationdamagedceilinglamplightbarsbottom", "foundationdamagedceilinglamplightbarsend", "foundationdamagedceilinglamplightbarsend"]
+		]
+	},
+	"hitbox": [0, 0.875, 0, 1, 0.125, 1],
+	"rotation": "pane",
+	"hidden": true,
+	"picking-item": "scp:foundationdamagedceilinglamp.item",
+	"tick-interval": 10,
+	"script-name": "foundationdamagedceilinglamp"
+}

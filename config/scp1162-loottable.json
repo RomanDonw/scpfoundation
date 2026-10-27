@@ -1,0 +1,22 @@
+[
+    {
+        "id": "scp:accesscard_0",
+        "count": 1
+    },
+    {
+        "id": "scp:accesscard_1",
+        "count": 1
+    },
+    {
+        "id": "scp:accesscard_2",
+        "count": 1
+    },
+    {
+        "id": "scp:mastercard",
+        "count": 1
+    },
+    {
+        "id": "scp:playingcard",
+        "count": 1
+    }
+]

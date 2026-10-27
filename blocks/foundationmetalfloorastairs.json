@@ -1,0 +1,21 @@
+{
+	"material": "scp:foundationmetal",
+	"texture": "foundationmetalfloora",
+	"model": "custom",
+	"model-primitives":
+	{
+		"aabbs":
+		[
+			[0, 0, 0.5, 1, 0.5, 0.5, "foundationmetalfloorastairs_side_small", "foundationmetalfloorastairs_side_small", "foundationmetalfloorastairs_side_h", "foundationmetalfloorastairs_side_h", "foundationmetalfloorastairs_side_h", "foundationmetalfloorastairs_side_h"],
+			[0, 0, 0, 1, 1, 0.5, "foundationmetalfloorastairs_side_v", "foundationmetalfloorastairs_side_v", "foundationmetalfloorastairs_side_h", "foundationmetalfloorastairs_side_h", "foundationmetalfloora", "foundationmetalfloora"]
+		]
+	},
+	"hitboxes":
+	[
+		[0, 0, 0.5, 1, 0.5, 0.5],
+		[0, 0, 0, 1, 1, 0.5]
+	],
+	"rotation": "pane",
+	"light-passing": true,
+	"sky-light-passing": true
+}

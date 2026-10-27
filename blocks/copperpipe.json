@@ -1,0 +1,20 @@
+{
+	"texture": "copper",
+	"material": "scp:foundationmetal",
+	"model": "custom",
+	"model-primitives":
+	{
+		"aabbs":
+		[
+			[0.3125, 0, 0.25, 0.375, 1, 0.0625, "copperpipe_surface_side_side", "copperpipe_surface_side_side", "copperpipe_surface_side_h", "copperpipe_surface_side_h", "copperpipe_surface", "copperpipe_surface"],
+			[0.3125, 0, 0.6875, 0.375, 1, 0.0625, "copperpipe_surface_side_side", "copperpipe_surface_side_side", "copperpipe_surface_side_h", "copperpipe_surface_side_h", "copperpipe_surface", "copperpipe_surface"],
+
+			[0.25, 0, 0.3125, 0.0625, 1, 0.375, "copperpipe_surface", "copperpipe_surface", "copperpipe_surface_side_v", "copperpipe_surface_side_v", "copperpipe_surface_side_side", "copperpipe_surface_side_side"],
+			[0.6875, 0, 0.3125, 0.0625, 1, 0.375, "copperpipe_surface", "copperpipe_surface", "copperpipe_surface_side_v", "copperpipe_surface_side_v", "copperpipe_surface_side_side", "copperpipe_surface_side_side"]
+		]
+	},
+	"hitbox": [0.25, 0, 0.25, 0.5, 1, 0.5],
+	"light-passing": true,
+	"sky-light-passing": true,
+	"rotation": "pipe"
+}

@@ -1,0 +1,17 @@
+{
+	"material": "scp:foundationstone",
+	"emission": [14, 15, 15],
+	"ligth-passing": true,
+	"model": "custom",
+	"model-primitives":
+	{
+		"aabbs":
+		[
+			[0, 0.9375, 0, 1, 0.0625, 1, "foundationceilinglampfixtureside", "foundationceilinglampfixtureside", "foundationceilinglampfixture", "foundationceilinglampfixture", "foundationceilinglampfixtureside", "foundationceilinglampfixtureside"],
+			[0.0625, 0.875, 0.0625, 0.875, 0.0625, 0.875, "foundationceilinglamplightbarside", "foundationceilinglamplightbarside", "foundationceilinglamplightbarsbottom", "foundationceilinglamplightbarsbottom", "foundationceilinglamplightbarsend", "foundationceilinglamplightbarsend"]
+		]
+	},
+	"hitbox": [0, 0.875, 0, 1, 0.125, 1],
+	"rotation": "pane",
+    "texture": "foundationceilinglampfixture"
+}

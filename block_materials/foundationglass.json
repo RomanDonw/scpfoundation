@@ -1,0 +1,5 @@
+{
+    "steps-sound": "steps/foundationglass",
+    "place-sound": "blocks/foundationglass_place",
+    "break-sound": "blocks/foundationglass_break"
+}

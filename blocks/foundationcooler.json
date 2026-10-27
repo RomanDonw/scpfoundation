@@ -1,0 +1,13 @@
+{
+	"material": "scp:foundationmetal",
+	"texture-faces":
+	[
+		"foundationcooler_side",
+		"foundationcooler_side",
+		"foundationcooler_side",
+		"foundationcooler_top",
+		"foundationcooler_side",
+		"foundationcooler_front"
+	],
+	"rotation": "pane"
+}
